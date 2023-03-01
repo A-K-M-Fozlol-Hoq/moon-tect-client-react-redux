@@ -1,6 +1,6 @@
-## server
+## Client
 
-server link : https://github.com/mir-hussain/moon-tech-server
-"# moon-tect-client-react-redux" 
-"# moon-tect-client-react-redux" 
-"# moon-tect-client-react-redux" 
+Learned react-redux (old setup)
+ 
+client side code: https://github.com/A-K-M-Fozlol-Hoq/moon-tect-client-react-redux
+server side code: https://github.com/A-K-M-Fozlol-Hoq/moon-tect-server-react-redux
